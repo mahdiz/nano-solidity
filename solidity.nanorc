@@ -3,6 +3,7 @@
 # June 14, 2024
 # License: UPL-1.0
 # https://github.com/mahdiz/nano-solidity
+# Forked from: https://github.com/sambacha/nano-solidity 
 
 syntax solidity "\.sol$"
 header "^pragma solidity [\^\~\>\<]?=?[0-9\.]*;"
