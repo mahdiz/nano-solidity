@@ -1,6 +1,6 @@
-# Solidity highlighting for nano
+# Solidity syntax highlighting for nano
 
-##Installation
+## Installation
 
 ```bash
 curl https://github.com/mahdiz/nano-solidity/master/install.sh | sh
