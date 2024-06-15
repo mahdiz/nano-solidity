@@ -1,19 +1,9 @@
-# solidity highlighting for nano
+# Solidity highlighting for nano
 
-> nanorc
-
-## Overview
-
-### nanorc
+##Installation
 
 ```bash
-curl https://raw.githubusercontent.com/scopatz/nanorc/master/install.sh | sh
-```
-
-### solidity_nanorc
-
-```bash
-curl https://raw.githubusercontent.com/sambacha/solidity-nano/master/install.sh | sh
+curl https://github.com/mahdiz/nano-solidity/master/install.sh | sh
 ```
 
 ## License
